@@ -1,0 +1,345 @@
+[
+  {
+    "city_en": "Tokyo",
+    "city_fa": "توکیو",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "country": "Japan"
+  },
+  {
+    "city_en": "Beijing",
+    "city_fa": "پکن",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "country": "China"
+  },
+  {
+    "city_en": "New Delhi",
+    "city_fa": "دهلی نو",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "country": "India"
+  },
+  {
+    "city_en": "Washington D.C.",
+    "city_fa": "واشینگتن دی‌سی",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "country": "USA"
+  },
+  {
+    "city_en": "Moscow",
+    "city_fa": "مسکو",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "country": "Russia"
+  },
+  {
+    "city_en": "London",
+    "city_fa": "لندن",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "country": "United Kingdom"
+  },
+  {
+    "city_en": "Paris",
+    "city_fa": "پاریس",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "country": "France"
+  },
+  {
+    "city_en": "Berlin",
+    "city_fa": "برلین",
+    "lat": 52.52,
+    "lon": 13.405,
+    "country": "Germany"
+  },
+  {
+    "city_en": "Rome",
+    "city_fa": "رم",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "country": "Italy"
+  },
+  {
+    "city_en": "Madrid",
+    "city_fa": "مادرید",
+    "lat": 40.4168,
+    "lon": -3.7038,
+    "country": "Spain"
+  },
+  {
+    "city_en": "Ottawa",
+    "city_fa": "اتاوا",
+    "lat": 45.4215,
+    "lon": -75.6972,
+    "country": "Canada"
+  },
+  {
+    "city_en": "Canberra",
+    "city_fa": "کانبرا",
+    "lat": -35.2809,
+    "lon": 149.13,
+    "country": "Australia"
+  },
+  {
+    "city_en": "Brasília",
+    "city_fa": "برازیلیا",
+    "lat": -15.8267,
+    "lon": -47.9218,
+    "country": "Brazil"
+  },
+  {
+    "city_en": "Buenos Aires",
+    "city_fa": "بوئنوس آیرس",
+    "lat": -34.6037,
+    "lon": -58.3816,
+    "country": "Argentina"
+  },
+  {
+    "city_en": "Mexico City",
+    "city_fa": "مکزیکوسیتی",
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "country": "Mexico"
+  },
+  {
+    "city_en": "Cairo",
+    "city_fa": "قاهره",
+    "lat": 30.0444,
+    "lon": 31.2357,
+    "country": "Egypt"
+  },
+  {
+    "city_en": "Tehran",
+    "city_fa": "تهران",
+    "lat": 35.6892,
+    "lon": 51.389,
+    "country": "Iran"
+  },
+  {
+    "city_en": "Riyadh",
+    "city_fa": "ریاض",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city_en": "Baghdad",
+    "city_fa": "بغداد",
+    "lat": 33.3152,
+    "lon": 44.3661,
+    "country": "Iraq"
+  },
+  {
+    "city_en": "Ankara",
+    "city_fa": "آنکارا",
+    "lat": 39.9208,
+    "lon": 32.8541,
+    "country": "Turkey"
+  },
+  {
+    "city_en": "Damascus",
+    "city_fa": "دمشق",
+    "lat": 33.5138,
+    "lon": 36.2765,
+    "country": "Syria"
+  },
+  {
+    "city_en": "Kabul",
+    "city_fa": "کابل",
+    "lat": 34.5553,
+    "lon": 69.2075,
+    "country": "Afghanistan"
+  },
+  {
+    "city_en": "Islamabad",
+    "city_fa": "اسلام‌آباد",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "country": "Pakistan"
+  },
+  {
+    "city_en": "Jakarta",
+    "city_fa": "جاکارتا",
+    "lat": -6.2088,
+    "lon": 106.8456,
+    "country": "Indonesia"
+  },
+  {
+    "city_en": "Bangkok",
+    "city_fa": "بانکوک",
+    "lat": 13.7563,
+    "lon": 100.5018,
+    "country": "Thailand"
+  },
+  {
+    "city_en": "Hanoi",
+    "city_fa": "هانوی",
+    "lat": 21.0285,
+    "lon": 105.8542,
+    "country": "Vietnam"
+  },
+  {
+    "city_en": "Seoul",
+    "city_fa": "سئول",
+    "lat": 37.5665,
+    "lon": 126.978,
+    "country": "South Korea"
+  },
+  {
+    "city_en": "Pyongyang",
+    "city_fa": "پیونگ‌یانگ",
+    "lat": 39.0392,
+    "lon": 125.7625,
+    "country": "North Korea"
+  },
+  {
+    "city_en": "Manila",
+    "city_fa": "مانیل",
+    "lat": 14.5995,
+    "lon": 120.9842,
+    "country": "Philippines"
+  },
+  {
+    "city_en": "Kuala Lumpur",
+    "city_fa": "کوالالامپور",
+    "lat": 3.139,
+    "lon": 101.6869,
+    "country": "Malaysia"
+  },
+  {
+    "city_en": "Singapore",
+    "city_fa": "سنگاپور",
+    "lat": 1.3521,
+    "lon": 103.8198,
+    "country": "Singapore"
+  },
+  {
+    "city_en": "Nairobi",
+    "city_fa": "نایروبی",
+    "lat": -1.2921,
+    "lon": 36.8219,
+    "country": "Kenya"
+  },
+  {
+    "city_en": "Pretoria",
+    "city_fa": "پرتوریا",
+    "lat": -25.7479,
+    "lon": 28.2293,
+    "country": "South Africa"
+  },
+  {
+    "city_en": "Addis Ababa",
+    "city_fa": "آدیس آبابا",
+    "lat": 9.032,
+    "lon": 38.7469,
+    "country": "Ethiopia"
+  },
+  {
+    "city_en": "Khartoum",
+    "city_fa": "خارطوم",
+    "lat": 15.5007,
+    "lon": 32.5599,
+    "country": "Sudan"
+  },
+  {
+    "city_en": "Rabat",
+    "city_fa": "رباط",
+    "lat": 34.0209,
+    "lon": -6.8416,
+    "country": "Morocco"
+  },
+  {
+    "city_en": "Algiers",
+    "city_fa": "الجزیره",
+    "lat": 36.7538,
+    "lon": 3.0588,
+    "country": "Algeria"
+  },
+  {
+    "city_en": "Athens",
+    "city_fa": "آتن",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "country": "Greece"
+  },
+  {
+    "city_en": "Brussels",
+    "city_fa": "بروکسل",
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "country": "Belgium"
+  },
+  {
+    "city_en": "Vienna",
+    "city_fa": "وین",
+    "lat": 48.21,
+    "lon": 16.3738,
+    "country": "Austria"
+  },
+  {
+    "city_en": "Stockholm",
+    "city_fa": "استکهلم",
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "country": "Sweden"
+  },
+  {
+    "city_en": "Oslo",
+    "city_fa": "اسلو",
+    "lat": 59.9139,
+    "lon": 10.7522,
+    "country": "Norway"
+  },
+  {
+    "city_en": "Copenhagen",
+    "city_fa": "کپنهاگ",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "country": "Denmark"
+  },
+  {
+    "city_en": "Helsinki",
+    "city_fa": "هلسینکی",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "country": "Finland"
+  },
+  {
+    "city_en": "Warsaw",
+    "city_fa": "ورشو",
+    "lat": 52.2297,
+    "lon": 21.0122,
+    "country": "Poland"
+  },
+  {
+    "city_en": "Prague",
+    "city_fa": "پراگ",
+    "lat": 50.0755,
+    "lon": 14.4378,
+    "country": "Czech Republic"
+  },
+  {
+    "city_en": "Amsterdam",
+    "city_fa": "آمستردام",
+    "lat": 52.3676,
+    "lon": 4.9041,
+    "country": "Netherlands"
+  },
+  {
+    "city_en": "Bern",
+    "city_fa": "برن",
+    "lat": 46.9481,
+    "lon": 7.4474,
+    "country": "Switzerland"
+  },
+  {
+    "city_en": "Lisbon",
+    "city_fa": "لیسبون",
+    "lat": 38.7169,
+    "lon": -9.139,
+    "country": "Portugal"
+  }
+]
