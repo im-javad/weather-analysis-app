@@ -9,7 +9,7 @@ const OPEN_METEO_BASE_URL = "https://api.open-meteo.com/v1";
 const HISTORICAL_BASE_URL = "https://historical-forecast-api.open-meteo.com/v1";
 
 const api = axios.create({
-  timeout: 10000,
+  timeout: 30000,
 });
 
 export const weatherAPI = {
